@@ -14,10 +14,10 @@
 <body>
   <h1>CIS 1250 Writting Assignment 2</h1>
   <p>1.	In the requirements gathering stage, developers are expected to figure out what problem they are solving, and who will be using the product they are creating. To solve these questions, developers must talk to customers by asking questions and communicating ideas to curate a clear and concise description of what the client needs. In software, requirements are a set of operations that the program must preform. This is an important stage in the software development process as it helps the developer understand the problem the product will be solving and what the users should gain/be able to do with the product. Additionally, it is the foundation for the following stages of the software development process since it acts as a guide for the development. “Good” requirements, are essential for the proper development of software. “Good” requirements must be clear, concise, measurable, and testable. Also, by creating a document of good requirements, developers prevent misunderstandings and disagreements about expectations.</p>
-  <p>2.	User stories:
-    As a user, I want a way to track my crops, so that I know if I have enough to produce different items like animal feed, bread, etc. 
-    As a user, I want a shop for my farm, so that I am able to sell items and crops for money. 
-    As a user, I want a way to connect with people, so that we can share items/crops and help each other. </p>
+  <p>2.	User stories:</p>
+  <p>As a user, I want a way to track my crops, so that I know if I have enough to produce different items like animal feed, bread, etc.</p>
+  <p>As a user, I want a shop for my farm, so that I am able to sell items and crops for money.</p>
+  <p>As a user, I want a way to connect with people, so that we can share items/crops and help each other. </p>
 </body>
 
 </html>
