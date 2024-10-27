@@ -22,18 +22,22 @@
 
 <body>
   <h1>CIS 1250 Writting Assignment 3</h1>
-  <p>**Sam</p>
+  <h2>Sam</h2>
   <p>
-    >“HayDay is a great way for my friends and I to connect. I enjoy expanding my farm and try to stay ahead of my friends! This game is also like my own world! – I like being able to go into it and forget about real like challenges. ” 
-  **AGE:** 17
-  **OCCUPATION:** High School Student
-  **LOCATION:** Caledonia, Ontario, Canada
+  “HayDay is a great way for my friends and I to connect. I enjoy expanding my farm and try to stay ahead of my friends! This game is also like my own world! – I like being able to go into it and forget about real life challenges. ” <br/><br/>
+  <b>AGE:</b> 17<br/>
+  <b>OCCUPATION:</b> High School Student<br/>
+  <b>LOCATION:</b> Caledonia, Ontario, Canada<br/><br/>
   </p>
-  <p>**Dimensions:
-      - He loves **_connectiong_** with friends
-      - He enjoys **_mobile gamming_**
-      - He is a **_quick learner_**
-      - He likes to **_escape_** the real world</p>
+  <h3>Dimensions:</h3><br/>
+      - He loves <b><i>connectiong</i></b> with friends<br/>
+      - He enjoys <b><i>mobile gamming</i></b><br/>
+      - He is a <b><i>quick learner</i></b><br/>
+      - He likes to <b><i>escape</i></b> the real world<br/><br/>
+  <h3>Motivations:</h3><br/>
+      - <b>His Relationships.</b> While playing the game, Sam is able to connect with his friends and build new relationships through game play. <br/>
+      - <b>Creativity.</b> Sam is motivated by the options to customize his farm. He see this as a way to express his styles and loves to see his friends different layouts. <br/>
+      - <b>Competition.</b><br/> Sam enjoys the achievements of HayDay. The competition between him and his friends leveling up is one of the reasons he continues to play the game. </p>
   <img align='center' src='WA3.jpg' hspace='20' vspace='20' width='300'
 alt='picture of Sam and his friends playing HayDay.'/>
 </body>
