@@ -20,4 +20,23 @@
   <p>As a user, I want a way to connect with people, so that we can share items/crops and help each other. </p>
 </body>
 
+<body>
+  <h1>CIS 1250 Writting Assignment 3</h1>
+  <p>**Sam</p>
+  <p>
+    >“HayDay is a great way for my friends and I to connect. I enjoy expanding my farm and try to stay ahead of my friends! This game is also like my own world! – I like being able to go into it and forget about real like challenges. ” 
+  **AGE:** 17
+  **OCCUPATION:** High School Student
+  **LOCATION:** Caledonia, Ontario, Canada
+  </p>
+  <p>**Dimensions:
+      - He loves **_connectiong_** with friends
+      - He enjoys **_mobile gamming_**
+      - He is a **_quick learner_**
+      - He likes to **_escape_** the real world</p>
+  <img align='center' src='WA3.jpg' hspace='20' vspace='20' width='300'
+alt='picture of Sam and his friends playing HayDay.'/>
+</body>
+
+
 </html>
