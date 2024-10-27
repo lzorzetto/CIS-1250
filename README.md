@@ -36,9 +36,11 @@
   <h3>Motivations:</h3><br/>
       - <b>His Relationships.</b> While playing the game, Sam is able to connect with his friends and build new relationships through game play. <br/>
       - <b>Creativity.</b> Sam is motivated by the options to customize his farm. He see this as a way to express his styles and loves to see his friends different layouts. <br/>
-      - <b>Competition.</b> Sam enjoys the achievements of HayDay. The competition between him and his friends leveling up is one of the reasons he continues to play the game.<br/> </p>
+      - <b>Competition.</b> Sam enjoys the achievements of HayDay. The competition between him and his friends leveling up is one of the reasons he continues to play the game.<br/>
+  
   <img align='center' src='Images/WA3.jpg' hspace='20' vspace='20' width='300'
 alt='picture of Sam and his friends playing HayDay.'/>
+</p>
 </body>
 
 
