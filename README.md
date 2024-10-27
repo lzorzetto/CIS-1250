@@ -21,6 +21,7 @@
 
 <body>
   <h1>CIS 1250 Writting Assignment 3</h1>
+  <p>Software product for Writting Assignment 1: HayDay</p>
   <h2>Sam</h2>
   <p>
   “HayDay is a great way for my friends and I to connect. I enjoy expanding my farm and try to stay ahead of my friends! This game is also like my own world! – I like being able to go into it and forget about real life challenges. ” <br/><br/>
@@ -28,7 +29,7 @@
   <b>OCCUPATION:</b> High School Student<br/>
   <b>LOCATION:</b> Caledonia, Ontario, Canada<br/><br/>
   <h3>Dimensions:</h3><br/>
-      - He loves <b><i>connectiong</i></b> with friends<br/>
+      - He loves <b><i>connecting</i></b> with friends<br/>
       - He enjoys <b><i>mobile gamming</i></b><br/>
       - He is a <b><i>quick learner</i></b><br/>
       - He likes to <b><i>escape</i></b> the real world<br/><br/>
