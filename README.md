@@ -42,5 +42,13 @@
   <h2> A picture of Sam playing HayDay with his friends. </h2>
 </body>
 
+<body>
+  <h1>CIS 1250 Writting Assignment 4</h1>
+  <p>Communication is important in software design because it makes sure everyone on the project is on the same page and ensures the development of software products goes accordingly. Effective communication between design teams and clients helps to clarify the requirements and expectations of the product being made. Key elements of effective communication in the design process include clarity (being clear and concise), non-verbal communication, and being open-minded. <br/><br/>
+<b>Clarity</b> is necessary to make sure ideas and concepts are being explained in an understandable way. This includes making requirements short and each requirement only explains one point. This way of representing requirements minimizes misunderstandings between the client and software design team.<br/><br/>
+<b>Non-verbal communication</b> includes paying attention to others in discussions by actively listening. By actively listening you can determine the other party’s concerns and views on the topic, leading to further discussions and collaboration.<br/><br/>
+Being <b>open-minded</b> allows for new ideas to be represented, and alternate views to be seen. This includes cultural differences that may diversify the product or the market using it. Design teams should remain open-minded throughout communication with clients and adapt requirements with new understandings.<br/><br/>
+
+In a past computer science project in high school, there was a miscommunication between me and my partner regarding our responsibilities of the project. The project was for us to build a basic software game. Throughout discussing the game, we wished to build, we defined some basic requirements it should have and some estimated due dates for those requirements. However, we never clearly assigned individual responsibilities, resulting in us making duplicates of some of the requirements, and left us doing more work then necessary. Given what learned in class, I now know the importance of declaring responsibilities at the beginning of a project, and regular check-ins to ensure we were on the same page. </p>
 
 </html>
